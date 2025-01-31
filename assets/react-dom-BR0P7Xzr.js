@@ -1,4 +1,4 @@
-import{r as mc}from"./react-gVYGEdRH.js";import{r as hc}from"./scheduler-vn6Di64w.js";var Zr={},li={exports:{}},oe={};/**
+import{a as mc}from"./react-BqgxVaOo.js";import{r as hc}from"./scheduler-vn6Di64w.js";var Zr={},li={exports:{}},oe={};/**
  * @license React
  * react-dom.production.min.js
  *
